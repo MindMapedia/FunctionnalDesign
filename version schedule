@@ -1,0 +1,23 @@
+v0.0
+preparation
+v0.0.1
+ce texte
+v0.0.2
+setup de test front
+v0.0.3
+setup de test back
+
+v0.1
+frontend dégeu
+v0.1.1 afficher un objet
+v0.1.2 afficher ses voisins de rang n
+
+v0.2
+server en sucre
+v0.2.1 des routes d'api add push put delete
+v0.2.2 une db correspondante marchant par relation d'id
+
+v0.3
+des tests unitaires
+
+
